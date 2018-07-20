@@ -1,2 +1,2 @@
-# studentManage_1.0
-Node实现简单学生管理系统
+# studentManager_19
+管理系统
